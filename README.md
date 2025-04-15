@@ -25,10 +25,22 @@ Plese refer to the Jupiter notebook provided.
 - Sense-check the files, find measures of central tendencies, missing values, duplicates and descriptive statistics.
 
 ### Exploratory Data Analysis
- Please refer to the Jupiter Notebook provideed.
+ An exploration of the data aimed to answer several questions, for example:
+ - What is the number of locations, service settings, context types, national categories, and appointment statuses in the data sets?
+ - What is the date range of the provided data sets, and which service settings reported the most appointments for a specific period?
+ - What is the number of appointments and records per month?
+ - What are the top trending hashtags (#) on the supplied Twitter data set and how can this be used in the decision-making process?
+ - Was there adequate staff and capacity in the networks?
+ - What was the actual utilisation of resources?
+ - What insights can be gained by looking at missed appointments?
+ - What are the most important patterns visible in the data relating to the use case? 
+  - What insights can be gained from the data, and what recommendations can be made to the NHS based on these insights?
+ Please refer to the Jupiter Notebook provided for more questions.
+EDA involved doing the following:
 - Used the datetime module to sort the appointments by date.
 - Used value_counts to get total number of appointments in diifferent catergories.
-- Used Seaborn for visualisations.
+- Used Seaborn to visualize patterns and trends.
+- Use the results to draw conclusions, offer insights and recommendations.
 
 ### Results
  - General practice had the highest number of appointments across seasons and 
