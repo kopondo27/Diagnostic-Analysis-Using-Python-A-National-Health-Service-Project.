@@ -18,6 +18,7 @@ Answering these questions would help the NHS budget better and allocate resouces
 
 
 
+![appointments_by_service_setting_across_seasons (1)](https://github.com/user-attachments/assets/c5581fee-21be-4829-9288-7477facec047)
 ### Data source
 Below files were provided:
 - actual_duration.csv - this contained details of appointments made by patients for exampple, name, date of birth, durations and the number of appointments.
