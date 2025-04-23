@@ -1,14 +1,14 @@
 # Making Diagnostic Analytics Using Python
 ## Table of Contents
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools Used](tools-used)
-- [Data Cleaning and Preparation](data-cleaning-and-preparation)
-- [Exploratory Data analysis](exploratory-data-analysis)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data analysis](#exploratory-data-analysis)
 - [Results](results)
-- [Insights and Recommendations](insights-and-recommendations)
-- [Limitations](limitations)
-- [References](references)
+- [Insights and Recommendations](#insights-and-recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 ### Project Overview
 This data analysisis project focuses on fictional NHS appointments data provided by London School of Economics covering a 30 month periodaiming to find out:  
 - if there was enough staffing and resources at the height of Covid-19 Pandemic.
