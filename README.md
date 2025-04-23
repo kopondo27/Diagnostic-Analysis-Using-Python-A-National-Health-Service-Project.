@@ -14,7 +14,9 @@ This data analysisis project focuses on fictional NHS appointments data provided
 - if there was enough staffing and resources at the height of Covid-19 Pandemic.
 - What the utilisation of the resources was like.
 - if it would be beneficial to use additional external data sources e.g X (formerly Twitter) to run the analysis.
-Answering these questions would help the NHS budget better and allocate resouces appropriateley
+Answering these questions would help the NHS budget better and allocate resouces appropriateley.
+
+
 
 ### Data source
 Below files were provided:
